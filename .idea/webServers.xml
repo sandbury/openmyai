@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="628f7582-cfb8-4b49-a8a4-811465cd7e17" name="Vanna.ai">
+        <fileTransfer accessType="SFTP" host="139.159.235.109" port="6000" sshConfigId="beba002c-4c29-4b04-bee5-9e18e82c9895" sshConfig="root@139.159.235.109:6000 key (1)">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f4fb0c45-7edd-4d36-a2da-7668eb9c313d" name="aliyun_server">
+        <fileTransfer accessType="SFTP" host="223.4.251.109" port="22" sshConfigId="6f5bc101-e834-4cf0-8d3f-68ebeb43cd4a" sshConfig="root@223.4.251.109:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

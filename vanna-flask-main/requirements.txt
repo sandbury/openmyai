@@ -1,0 +1,7 @@
+flask
+vanna[postgres]
+db-dtypes
+python-dotenv
+chromadb
+python-docx==1.1.2
+ollama
